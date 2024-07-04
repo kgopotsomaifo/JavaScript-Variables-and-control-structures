@@ -1,11 +1,9 @@
-# JavaScript-Variables-and-control-structures
+# JavaScript Variables and control structures
 HyperionDev Capstone project
 
-# JavaScript Variables and control structures
+# Description:
 
-Description:
-
-This is a programme is a temperature metric converter.
+This programme is a temperature metric converter.
 
 
 ## Usage
